@@ -1,8 +1,3 @@
----
-title: "README.Rmd"
-output: html_document
----
-
 The repo inlcudes following files:
 
 1. The R script **run_Analyais.R** would clean and creat a tidy data set.

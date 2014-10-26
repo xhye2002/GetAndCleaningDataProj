@@ -1,7 +1,3 @@
----
-title: "CodeBook for the course project of Getting and Cleaning Data"
-output: html_document
----
 The code book would describe the variables, the data, and any transformations that would be performed to clean up the data
 
 ##Data for the Project
